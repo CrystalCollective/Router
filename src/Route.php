@@ -5,7 +5,7 @@
  * Time: 12:17
  */
 
-namespace KrystlPHP;
+namespace CrystalPHP;
 
 use Closure;
 
